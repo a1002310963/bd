@@ -1,0 +1,19 @@
+{
+  "summary": {
+    "title": "threat_demo",
+    "owner": "hujf",
+    "description": "1"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "1",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "1"
+  }
+}
